@@ -1,4 +1,5 @@
 //this line is causing a conflict in the conflict branch
+//this is the second line causing issues in the conflict branch
 
 #include <stdio.h>
 
