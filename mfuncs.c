@@ -1,4 +1,4 @@
-//master conflict
+//this line is causing a conflict in the conflict branch
 
 #include <stdio.h>
 
